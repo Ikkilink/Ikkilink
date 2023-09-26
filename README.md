@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align = "center">✨IM AN OVERWATCH PLAYER WHO'S ALSO A PROGRAMMER✨</h1>
 
-<!--
-**Ikkilink/Ikkilink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" alt="Coding" width="300" src="./img/needygirl.png">
 
-Here are some ideas to get you started:
+ <p align="left"> <a href="https://www.instagram.com/ikkilink/" target="blank"><img width="150" src="./img/INSTA.png " alt="insta" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I'm currently learning how to do web pages ☽˚｡･ﾟ✧:･.:
+ - I'm also an artist, I made that drawing ---->
+ - ‧₊˚✧ I'm a aspiring game developer✧˚₊‧
+ - C#, Java, JS, C++    
+ 
+                       
+                        
