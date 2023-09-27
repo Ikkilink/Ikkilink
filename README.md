@@ -10,5 +10,6 @@
  - I'm also an artist, I made that drawing ---->
  - ‧₊˚✧ I'm a aspiring game developer✧˚₊‧
  - C#, Java, JS, C++    
+ 
 <h3> Most used programs lately </h3>                      
 <p align="left"> <img src="./img/GITHUB.png" alt="GITHUB" width="40" height="40"/> <img src="./img/GIT.png" alt="GITHUB" width="40" height="40"/><img src="./img/VS2.png" alt="VS" width="40" height="40"/></p>
